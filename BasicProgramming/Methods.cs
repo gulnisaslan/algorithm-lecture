@@ -14,6 +14,6 @@ class Methods
     }
     
     static double SatisYap(double miktar,double indirim){
-        return (miktar(1,0-indirim)*1.18);
+        return ((miktar-indirim)*1.18);
     }
 }
