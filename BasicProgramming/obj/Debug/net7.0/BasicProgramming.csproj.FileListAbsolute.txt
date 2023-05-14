@@ -1,0 +1,15 @@
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\bin\Debug\net7.0\BasicProgramming.exe
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\bin\Debug\net7.0\BasicProgramming.deps.json
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\bin\Debug\net7.0\BasicProgramming.runtimeconfig.json
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\bin\Debug\net7.0\BasicProgramming.dll
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\bin\Debug\net7.0\BasicProgramming.pdb
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\obj\Debug\net7.0\BasicProgramming.csproj.AssemblyReference.cache
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\obj\Debug\net7.0\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\obj\Debug\net7.0\BasicProgramming.AssemblyInfoInputs.cache
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\obj\Debug\net7.0\BasicProgramming.AssemblyInfo.cs
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\obj\Debug\net7.0\BasicProgramming.csproj.CoreCompileInputs.cache
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\obj\Debug\net7.0\BasicProgramming.dll
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\obj\Debug\net7.0\refint\BasicProgramming.dll
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\obj\Debug\net7.0\BasicProgramming.pdb
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\obj\Debug\net7.0\BasicProgramming.genruntimeconfig.cache
+D:\gulnisaslanyazilim\yazilim\algorithm\algorithm-btk-academy\BasicProgramming\obj\Debug\net7.0\ref\BasicProgramming.dll
